@@ -28,7 +28,7 @@ Documenation and Instructions
 <p>Additionally, by automating tasks that can be triggered safely from a bot within a chat room, bottlenecks are removed where previously only a limited subset of people had the knowledge or access to expertly manage infrastructure, code, and information.</p>
 <p>Provides following functionality:</p>
 <ul>
-<li>List Apps, Workflows, Environments, Packages, General Workflows</li>
+<li>List Apps, Workflows, Executions, Environments, Packages, General Workflows</li>
 <li>Create new Package and instrument its properties</li>
 <li>Run Deployments</li>
 <li>Start General Workflows</li>
