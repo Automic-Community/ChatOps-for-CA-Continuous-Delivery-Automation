@@ -1,9 +1,9 @@
-*ChatOps for Automation Release Automation*
+*ChatOps for Automic Release Automation*
 =============
 
 
 An Automic Release Automation Bot Community Project 
-http://github.com/Automic-Community/ChatOps-for-Automation-Release-Automation
+http://github.com/Automic-Community/ChatOps-for-Automic-Release-Automation
 
 <!-- List of attached files -->
 Contents of Solution Package:
@@ -28,7 +28,7 @@ Documenation and Instructions
 <p>Additionally, by automating tasks that can be triggered safely from a bot within a chat room, bottlenecks are removed where previously only a limited subset of people had the knowledge or access to expertly manage infrastructure, code, and information.</p>
 <p>Provides following functionality:</p>
 <ul>
-<li>List Apps, Workflows, Executions, Environments, Packages, General Workflows</li>
+<li>List Apps, Workflows, Environments, Packages, General Workflows</li>
 <li>Create new Package and instrument its properties</li>
 <li>Run Deployments</li>
 <li>Start General Workflows</li>
@@ -39,7 +39,7 @@ Copyright and License
 ---
 
 Solutions, Templates, Actions and other content available on the Automic Marketplace subject to the Automic [Developers Distribution License] (https://marketplace.automic.com/developers-distribution-license) as well as the Automic Community [Terms of Service] (https://marketplace.automic.com/community-terms-of-service).
-Automic does not support, maintain or warrant any content submitted by the Automic Community.
+Automic does not support, maintain or warrant any content submitted by the Automic-Community.
 
 
 
