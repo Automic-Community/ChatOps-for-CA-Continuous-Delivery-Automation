@@ -9,8 +9,6 @@ http://github.com/Automic-Community/ChatOps-for-Automic-Release-Automation
 Contents of Solution Package:
 
 						
-								*ARA_ChatOps.zip
-								
 								*README.txt
 								
 								*Hubot.png
