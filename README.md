@@ -1,9 +1,9 @@
-*ChatOps for Automic Release Automation*
+*ChatOps for CA Continuous Delivery Automation*
 =============
 
 
-An Automic Release Automation Bot Community Project 
-http://github.com/Automic-Community/ChatOps-for-Automic-Release-Automation
+A CA Continuous Delivery Automation Bot Community Project 
+http://github.com/Automic-Community/ChatOps-for-CA-Continuous-Delivery-Automation
 
 <!-- List of attached files -->
 Contents of Solution Package:
@@ -22,7 +22,7 @@ Documenation and Instructions
 ---
 
 <p><img src="https://448bb31d92917ba3390f-4a8f48d20b0d8c78b979208d38d37653.ssl.cf1.rackcdn.com/731/screenshots/Hubot.png" alt="" width="120" height="120" /></p>
-<p>Built on Hubot, this ChatOps community project enables you to interact with Automic Release Automation using your favorite chat client.</p>
+<p>Built on Hubot, this ChatOps community project enables you to interact with CA Continuous Delivery Automation (formerly known as CA Automic Release Automation) using your favorite chat client.</p>
 <p>ChatOps is a somewhat new approach to communication that allows teams to collaborate and manage not only aspects of their infrastructure and code, but a wide variety of functions within an organization, all from the comfort and safety of a chat room.</p>
 <p>By automating tasks and actions so that a chatbot can execute them on your behalf, ChatOps allows you to create efficiencies in many areas of an organization, freeing up time and resources to tackle new challenges.</p>
 <p>Additionally, by automating tasks that can be triggered safely from a bot within a chat room, bottlenecks are removed where previously only a limited subset of people had the knowledge or access to expertly manage infrastructure, code, and information.</p>
